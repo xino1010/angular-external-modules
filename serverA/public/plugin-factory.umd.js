@@ -1,0 +1,1 @@
+/home/dandujar/git/module-loading/dynamic/bundled-plugins/myplugin/plugin-factory.umd.js
